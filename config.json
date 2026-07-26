@@ -1,0 +1,8 @@
+{
+  "version": 3,
+  "download_url": "https://dramashowtv.online/download",
+  "min_supported_version_code": 42,
+  "force_update": false,
+  "message": "A new version is available.",
+  "signature": ""
+}
