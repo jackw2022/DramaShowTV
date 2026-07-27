@@ -4,7 +4,10 @@
     "maintenance": false,
     "force_update": false,
     "download_url": "https://dramashowtv.online/download",
-    "api": "https://api.dramashowtv.online",
-    "backup_api": "https://api2.dramashowtv.online",
+    "servers": [
+        "https://api.dramashowtv.online",
+        "https://api2.dramashowtv.online",
+        "https://api3.dramashowtv.online"
+    ],
     "message": "A new version is available."
 }
