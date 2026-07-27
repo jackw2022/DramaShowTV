@@ -1,8 +1,10 @@
 {
-  "version": 3,
-  "download_url": "https://dramashowtv.online/download",
-  "min_supported_version_code": 42,
-  "force_update": false,
-  "message": "A new version is available.",
-  "signature": ""
+    "config_version": 1,
+    "minimum_version": 1,
+    "maintenance": false,
+    "force_update": false,
+    "download_url": "https://dramashowtv.online/download",
+    "api": "https://api.dramashowtv.online",
+    "backup_api": "https://api2.dramashowtv.online",
+    "message": "A new version is available.",
 }
